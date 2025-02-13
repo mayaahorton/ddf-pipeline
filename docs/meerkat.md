@@ -1,0 +1,1 @@
+This is a document about using realistic MeerKAT beam models within [ddf-pipeline](https://github.com/mayaahorton/ddf-pipeline/tree/mkt), where we have first created them using the [Eidos](https://github.com/ratt-ru/eidos) beam model. Details coming soon. 
